@@ -1,0 +1,61 @@
+section {
+    padding: 2rem;
+    margin: 1rem;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    color: white;
+}
+
+h2 {
+    margin-bottom: 1rem;
+    color: #87CEFA;
+    font-size: 28px;
+}
+
+form {
+    display: grid;
+    gap: 1rem;
+    color: #B0C4DE;
+    font-size: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 0.7rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: aqua;
+}
+
+body {
+    background: url('https://st.depositphotos.com/1275255/2371/i/450/depositphotos_23712041-stock-photo-abstract-dark-blue-widescreen-art.jpg') no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+
+}

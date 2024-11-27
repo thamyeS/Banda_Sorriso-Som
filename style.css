@@ -1,0 +1,51 @@
+body {
+    background: url('https://img.freepik.com/fotos-premium/nascer-do-sol-sobre-o-lago_167619-387.jpg') no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+
+}
+
+header {
+    background-color: #60d2ffd8;
+    color: rgb(0, 204, 255);
+    padding: 10px 0;
+    text-align: center;
+}
+
+header H1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+
+selection {
+    padding: 20px;
+    margin: 0 10px;
+}
+
+.imagem {
+    width: 420px;
+    align-items: center;
+    transform: translate(180%, 10%);
+    border-radius: 500%;
+}
+
+
+
